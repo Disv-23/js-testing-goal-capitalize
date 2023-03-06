@@ -1,0 +1,23 @@
+{
+  "name": "js-testing-goal-capitalize",
+  "version": "1.0.0",
+  "description": "Первый тест кода",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Disv-23/js-testing-goal-capitalize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Disv-23/js-testing-goal-capitalize/issues"
+  },
+  "homepage": "https://github.com/Disv-23/js-testing-goal-capitalize#readme"
+}

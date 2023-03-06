@@ -1,7 +1,7 @@
 import { strict as assert } from 'node:assert';
 import { capitalize } from '../src/capitalize.js';
 
-assert(capitalize('ff') === '');
+assert(capitalize('') === '');
 assert(capitalize('hello') === 'Hello');
 
 // assert.equal(capitalize(''), '');
